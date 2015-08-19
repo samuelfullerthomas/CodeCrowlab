@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/BraveBravos/CodeColab.svg?branch=master)](https://travis-ci.org/BraveBravos/CodeColab)
 
-
+![alt tag](http://img2.wikia.nocookie.net/__cb20130504222540/flylikeabird3/images/1/19/Evil_crow.png)
 
 https://code-crowlab.herokuapp.com
 
