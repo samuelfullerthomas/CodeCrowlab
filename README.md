@@ -2,54 +2,29 @@
 
 https://code-colab.herokuapp.com
 
-## Team Members
+## CAW
 
-  - __Product Owner__: [phillydorn](https://github.com/phillydorn)
-  - __Scrum Master__: [enjareyes](https://github.com/enjareyes)
-
-  - [adamlg] (https://github.com/adamlg)  -  [sFoskitt] (https://github.com/SFoskitt)  -  [pat-dalberg] (https://github.com/pat-dalberg)
+  Caw caw
 
 
-## Table of Contents
+## Caw
 
-1. [Overview](#Overview)
-2. [Usage](#Usage)
-3. [Tech Stack](#Tech Stack)
-4. [Contributing](#Contributing)
+1. Caw
+2. Caw?
+3. Caw
+4. Caw
 
-## Overview
+## Caw
 
-You must have a Github account in order to sign in and use CodeColab. After signing in, a dropdown of your repositories will appear for you to select from. Once a repository has been selected, a branch on Github will be created for your session and your text editor will load the repo- the right side will show your master branch and the left will be to edit. Any changes you make on the left can be reverted by clicking the white arrow between the left and right panel. 
+cAw CAWCAWCAW caw caw caw CAw CAw cAw caw CAw cAw CAWCAW caw CAWCAWCAW CAw caw cAw CAw CAw caw caw caw CAWCAW CAWCAWCAW CAWCAW cAw CAWCAWCAW caw caw cAw caw caw caw CAWCAW cAw CAw cAw cAw caw CAw caw caw CAw cAw caw caw caw CAWCAW caw CAWCAWCAW CAWCAW CAw CAWCAW CAWCAW caw CAWCAWCAW CAWCAWCAW CAWCAW cAw caw CAWCAW caw CAw CAWCAW CAw CAWCAW CAWCAWCAW cAw CAWCAW CAw caw CAWCAWCAW CAWCAWCAW caw caw CAw CAw CAWCAWCAW CAWCAWCAW CAWCAWCAW CAWCAW caw CAWCAW caw caw CAWCAWCAW caw caw CAWCAW CAWCAWCAW caw CAWCAW caw CAWCAW caw cAw CAWCAW CAw caw cAw cAw CAWCAWCAW caw cAw cAw CAWCAW caw CAWCAWCAW caw CAw cAw CAw cAw CAWCAW CAWCAWCAW CAWCAWCAW CAWCAWCAW CAw caw CAWCAW caw cAw CAw cAw cAw CAWCAW CAw caw CAw caw CAw CAWCAW CAWCAW CAw caw CAWCAW caw CAw CAWCAWCAW CAWCAW cAw cAw CAWCAW CAWCAWCAW CAWCAW CAWCAWCAW caw CAWCAWCAW caw caw CAWCAW CAw caw caw cAw CAWCAWCAW cAw CAw CAWCAWCAW caw cAw CAw caw caw caw caw CAw CAw caw cAw CAWCAWCAW CAw CAWCAW caw CAWCAW CAWCAWCAW cAw CAw caw caw cAw CAw CAWCAW CAWCAW cAw caw CAw cAw CAWCAW CAWCAWCAW cAw caw caw caw CAWCAW CAWCAWCAW caw caw CAWCAW caw CAWCAWCAW CAw CAWCAWCAW caw CAWCAWCAW CAw CAWCAW CAw CAWCAWCAW CAWCAWCAW cAw
 
-Once you're satisfied with your changes, you can click the commit button and the changes will be commited to the branch on GitHub that was created when the repository was selected. When your team is done editing and all changes have been commited, you can click the merge button to merge changes into master. This will update the right panel of your text editor as it syncs with the master branch on Github. Any changes made and not merged will be saved to the database and not lost between sessions. 
+## Caw
 
-If you wish to deploy your code to create an application on Heroku, you must first have a Heroku account before clicking the deploy button to authorize Heroku to create your app. 
+- Caw
 
-## Usage
+## Caw Stack
 
-- Sign in with GitHub
-- Select a repository to work on
-- Code / video chat!
-- Commit
-- Merge branch/changes in with 'merge' button
-- Deploy your application with 'deploy' button
-
-
-## Tech Stack
-
-- Node
-- Express
-- Angular
+- Caw.js
+- Caw
+- CAWCAW
 - MongoDB
-
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/BraveBravos/CodeColab/blob/master/contributing.md) for contribution guidelines.
-
-
-
-
-
-
-
-
